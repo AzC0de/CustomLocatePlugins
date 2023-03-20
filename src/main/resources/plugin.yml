@@ -1,0 +1,4 @@
+name: CustomLocatePlugin
+main: me.az0code.customlocate.CustomLocate
+version: 1.0.0
+author: AzC0de

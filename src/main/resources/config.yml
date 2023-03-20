@@ -1,0 +1,4 @@
+# Configuracion del Custom Plugin Loader
+
+# Carpeta personalizada para cargar plugins
+custom-plugin-folder: /ruta/aqui
