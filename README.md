@@ -19,7 +19,7 @@ CustomPluginLoader is a plugin for Spigot that allows plugins to be loaded from 
 ### Usage
 1. Install CustomPluginLoader in the "plugins" folder of your Spigot server.
 2. Edit the "config.yml" in the CustomPluginLoader folder inside the plugins folder.
-3. Set the custom path to load plugins in the custom-plugin-folder option. For example, /route/here.
+3. Set the custom path to load plugins in the custom-plugin-folder option. For example, /ruta/aqui.
 4. Place the plugins files (in JAR format) in the custom folder specified in the config.yml.
 5. Restart your Spigot server so that CustomPluginLoader loads the plugins from the custom location.
 ###
